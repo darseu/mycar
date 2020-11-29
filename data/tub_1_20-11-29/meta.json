@@ -1,1 +1,1 @@
-{"inputs": ["cam/image_array", "user/angle", "user/throttle", "user/mode"], "types": ["image_array", "float", "float", "str"], "start": 1606623469.9776251}
+{"inputs": ["cam/image_array", "user/angle", "user/throttle", "user/mode", "behavior/state", "behavior/label", "behavior/one_hot_state_array"], "types": ["image_array", "float", "float", "str", "int", "str", "vector"], "start": 1606638289.6155689}
